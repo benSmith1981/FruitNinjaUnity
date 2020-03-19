@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D938FC3B-65EB-BA16-8B9B-6E841FC1CBDA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameHandler.cs">
+    <Files>
+      <File FileName="Assets/GameHandler.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForLoopsFunctionsConditionals" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameHandler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="17849885-b920-426c-a893-cb69af2ec6e1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
